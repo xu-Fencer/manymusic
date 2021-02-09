@@ -56,17 +56,9 @@ include_once MC_CORE_DIR . '/music.php';
 // 支持的网站
 $music_type_list = array(
     'netease'    => '网易',
-    'qq'         => 'ＱＱ',
     'kugou'      => '酷狗',
     'kuwo'       => '酷我',
-    'xiami'      => '虾米',
-    'baidu'      => '百度',
-    '1ting'      => '一听',
-    'migu'       => '咪咕',
-    'lizhi'      => '荔枝',
-    'qingting'   => '蜻蜓',
     'ximalaya'   => '喜马拉雅',
-    'kg'         => '全民K歌',
     '5singyc'    => '5sing原创',
     '5singfc'    => '5sing翻唱'
 );
